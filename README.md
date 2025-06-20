@@ -1,4 +1,4 @@
-# Getting Started!!! (hola)
+# Getting Started!!! (hola cola)
 Install the dependencies and run the project
 ```
 npm install
